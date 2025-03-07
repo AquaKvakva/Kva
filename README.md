@@ -18,6 +18,6 @@
 1. Cute frog
 >! 2 frogs.
 
-![Cute frog](/img/cute%20frog.jpg)
+![Cute frog](img/cute%20frog.jpg)
 
 
